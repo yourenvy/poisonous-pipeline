@@ -1,0 +1,22 @@
+{
+  "name": "poisonous-pipeline",
+  "version": "1.0.0",
+  "description": "![poisonous-planet](poisonous-planet.jfif)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloud-village/poisonous-pipeline.git"
+  },
+  "author": "Cloud Village",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cloud-village/poisonous-pipeline/issues"
+  },
+  "homepage": "https://github.com/cloud-village/poisonous-pipeline#readme",
+  "devDependencies": {
+    "@types/node": "^20.12.7"
+  }
+}
